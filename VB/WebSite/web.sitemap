@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<siteMap>
+  <siteMapNode url="~/Default.aspx" title="Home">
+    <siteMapNode url="" title="Admin" roles="admin">
+      <siteMapNode url="~/Admin/Admin1.aspx" title="Admin1"/>
+      <siteMapNode url="~/Admin/Admin2.aspx" title="Admin2"/>
+    </siteMapNode>
+    <siteMapNode url="" title="AllUsers" roles="*">
+      <siteMapNode url="~/Users/User1.aspx" title="User1" />
+      <siteMapNode url="~/Users/User2.aspx" title="User2" />
+    </siteMapNode>
+   </siteMapNode>
+ </siteMap>
