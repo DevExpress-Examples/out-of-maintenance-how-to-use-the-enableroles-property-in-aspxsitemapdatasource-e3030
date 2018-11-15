@@ -1,3 +1,21 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Admin1.aspx](./CS/WebSite/Admin/Admin1.aspx) (VB: [Admin1.aspx](./VB/WebSite/Admin/Admin1.aspx))
+* [Admin1.aspx.cs](./CS/WebSite/Admin/Admin1.aspx.cs) (VB: [Admin1.aspx](./VB/WebSite/Admin/Admin1.aspx))
+* [Admin2.aspx](./CS/WebSite/Admin/Admin2.aspx) (VB: [Admin2.aspx](./VB/WebSite/Admin/Admin2.aspx))
+* [Admin2.aspx.cs](./CS/WebSite/Admin/Admin2.aspx.cs) (VB: [Admin2.aspx](./VB/WebSite/Admin/Admin2.aspx))
+* [CustomMembershipProvider.cs](./CS/WebSite/App_Code/CustomMembershipProvider.cs) (VB: [CustomMembershipProvider.vb](./VB/WebSite/App_Code/CustomMembershipProvider.vb))
+* [CustomRoleProvider.cs](./CS/WebSite/App_Code/CustomRoleProvider.cs) (VB: [CustomRoleProvider.vb](./VB/WebSite/App_Code/CustomRoleProvider.vb))
+* **[Default.aspx](./CS/WebSite/Default.aspx) (VB: [Default.aspx](./VB/WebSite/Default.aspx))**
+* [Default.aspx.cs](./CS/WebSite/Default.aspx.cs) (VB: [Default.aspx](./VB/WebSite/Default.aspx))
+* [Login.aspx](./CS/WebSite/Login.aspx) (VB: [Login.aspx](./VB/WebSite/Login.aspx))
+* [Login.aspx.cs](./CS/WebSite/Login.aspx.cs) (VB: [Login.aspx](./VB/WebSite/Login.aspx))
+* [User1.aspx](./CS/WebSite/Users/User1.aspx) (VB: [User1.aspx.vb](./VB/WebSite/Users/User1.aspx.vb))
+* [User1.aspx.cs](./CS/WebSite/Users/User1.aspx.cs) (VB: [User1.aspx.vb](./VB/WebSite/Users/User1.aspx.vb))
+* [User2.aspx](./CS/WebSite/Users/User2.aspx) (VB: [User2.aspx.vb](./VB/WebSite/Users/User2.aspx.vb))
+* [User2.aspx.cs](./CS/WebSite/Users/User2.aspx.cs) (VB: [User2.aspx.vb](./VB/WebSite/Users/User2.aspx.vb))
+<!-- default file list end -->
 # How to use the EnableRoles property in ASPxSiteMapDataSource
 
 
