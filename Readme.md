@@ -17,6 +17,9 @@
 * [User2.aspx.cs](./CS/WebSite/Users/User2.aspx.cs) (VB: [User2.aspx.vb](./VB/WebSite/Users/User2.aspx.vb))
 <!-- default file list end -->
 # How to use the EnableRoles property in ASPxSiteMapDataSource
+<!-- run online -->
+**[[Run Online]](https://codecentral.devexpress.com/e3030/)**
+<!-- run online end -->
 
 
 <p>Every SiteMapNode has the Roles property. When you assign this property, it is possible to hide/show nodes based on current user roles. To enable this feature for the standard SiteMapDataSource, declare SiteMapProvider and set the SiteMapProvider SecurityTrimmingEnabled to True. In web.config, it will look like this:</p><br />
